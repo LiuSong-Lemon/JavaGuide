@@ -1,10 +1,6 @@
 点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源。
 
-作者的其他开源项目推荐：
-
-1. [springboot-guide](https://github.com/Snailclimb/springboot-guide) : 适合新手入门以及有经验的开发人员查阅的 Spring Boot 教程（业余时间维护中，欢迎一起维护）。
-2. [programmer-advancement](https://github.com/Snailclimb/programmer-advancement) : 我觉得技术人员应该有的一些好习惯！
-3. [spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide) :从零入门 ！Spring Security With JWT（含权限验证）后端部分代码。
+推荐一下京东云最近的活动，刚好自己需要，感觉优惠力度挺大的，除了新人有很多一折服务器外，消费还会返还金豆，[点击了解](https://re.jdcloud.com/cps?returnUrl=aHR0cHM6Ly93d3cuamRjbG91ZC5jb20vY24vYWN0aXZpdHkveWVhci1lbmQ_bUlkPTE4JmNwc0tleT0xZGExN2NjYjQ1OGY0NWI2OWYxYjZjZWRkYTRkN2E4ZA==)
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
@@ -19,6 +15,16 @@
   <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
   <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
+</p>
+
+<h3 align="center">Sponsor</h3>
+<p align="center">
+  <a  href="https://study.163.com/topics/JavaGuide/" >
+<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/WechatIMG1.png"width="" style="margin: 0 auto;"/>
+  </a >
+    <a  href="https://re.jdcloud.com/cps?returnUrl=aHR0cHM6Ly93d3cuamRjbG91ZC5jb20vY24vYWN0aXZpdHkveWVhci1lbmQ_bUlkPTE4JmNwc0tleT0xZGExN2NjYjQ1OGY0NWI2OWYxYjZjZWRkYTRkN2E4ZA==" >
+<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/728*90.jpg"width="" style="margin: 0 auto;"/>
+  </a>
 </p>
 
 推荐使用 https://snailclimb.top/JavaGuide/ 在线阅读(访问速度慢的话，请使用 https://snailclimb.gitee.io/javaguide )，在线阅读内容本仓库同步一致。这种方式阅读的优势在于：有侧边栏阅读体验更好，Gitee pages 的访问速度相对来说也比较快。
@@ -142,7 +148,8 @@
 
 ### MySQL
 
-* **[MySQL 学习与面试](docs/database/MySQL.md)**
+* **[【推荐】MySQL/数据库 知识点总结](docs/database/MySQL.md)**
+* **[阿里巴巴开发手册数据库部分的一些最佳实践](docs/database/阿里巴巴开发手册数据库部分的一些最佳实践.md)**
 * **[一千行MySQL学习笔记](docs/database/一千行MySQL命令.md)**
 * [MySQL高性能优化规范建议](docs/database/MySQL高性能优化规范建议.md)
 * [数据库索引总结](docs/database/MySQL%20Index.md)
@@ -190,6 +197,7 @@
 - [消息队列总结](docs/system-design/data-communication/message-queue.md)
 - [RabbitMQ 入门](docs/system-design/data-communication/rabbitmq.md)
 - [RocketMQ的几个简单问题与答案](docs/system-design/data-communication/RocketMQ-Questions.md)
+- [Kafka入门看这一篇就够了](docs/system-design/data-communication/Kafka入门看这一篇就够了.md)
 - [Kafka系统设计开篇-面试看这篇就够了](docs/system-design/data-communication/Kafka系统设计开篇-面试看这篇就够了.md)
 
 ### 网站架构
@@ -208,6 +216,7 @@
 * **[【备战面试4】Github上开源的Java面试/学习相关的仓库推荐](docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)**
 * **[【备战面试5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](docs/essential-content-for-interview/PreparingForInterview/如果面试官问你"你有什么问题问我吗？"时，你该如何回答.md)**
 * **[【备战面试6】美团面试常见问题总结（附详解答案）](docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md)**
+* **[【备战面试7】一些刁难的面试问题总结](https://xiaozhuanlan.com/topic/9056431872)**
 
 ### 常见面试题总结
 
@@ -241,8 +250,7 @@
 
 ### 实战项目推荐
 
-- [onemall](https://github.com/YunaiV/onemall) : mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
-- 
+- [Github 上热门的 Spring Boot 项目实战推荐](docs/data/spring-boot-practical-projects.md)
 
 ### Github 历史榜单
 
@@ -258,7 +266,7 @@
 
 ## 说明
 
-### 介绍
+### JavaGuide介绍
 
 *  **对于 Java 初学者来说：** 本文档倾向于给你提供一个比较详细的学习路径，让你对于Java整体的知识体系有一个初步认识。另外，本文的一些文章
 也是你学习和复习 Java 知识不错的实践；
@@ -267,6 +275,12 @@
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
 利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/)
+
+### 作者的其他开源项目推荐
+
+1. [springboot-guide](https://github.com/Snailclimb/springboot-guide) : 适合新手入门以及有经验的开发人员查阅的 Spring Boot 教程（业余时间维护中，欢迎一起维护）。
+2. [programmer-advancement](https://github.com/Snailclimb/programmer-advancement) : 我觉得技术人员应该有的一些好习惯！
+3. [spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide) :从零入门 ！Spring Security With JWT（含权限验证）后端部分代码。
 
 ### 关于转载
 
